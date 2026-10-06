@@ -4,7 +4,7 @@
 
 I turn raw data into decisions: machine learning, graph analytics, and the full-stack apps that make models usable. I recently worked as a **Data Engineer at WAL-IT Services** (July–August 2026), where I built SENTINEL as my end-of-year project (PFA).
 
-📍 Casablanca, Morocco · 📫 mohammedbarra2005@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/mohammedbarra-7a4a762ba)
+📍 Casablanca, Morocco · 📫 mohammedbarra2005@gmail.com · 🔗 [LinkedIn]([https://www.linkedin.com/in/mohammedbarra-7a4a762ba](https://www.linkedin.com/in/mohammed-barra-7a4a762ba/))
 
 ---
 
@@ -59,7 +59,7 @@ Claude 101 · Successful Negotiation: Essential Strategies and Skills
 
 I'm open to PFE and internship opportunities in Data Science, ML, and Data Engineering, and always happy to talk about graph ML or fraud analytics.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Barra-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedbarra-7a4a762ba)
+[![LinkedIn](h[ttps://img.shields.io/badge/LinkedIn-Mohammed_Barra-0A66C2?logo=linkedin&logoColor=white](https://www.linkedin.com/in/mohammed-barra-7a4a762ba/))](https://www.linkedin.com/in/mohammedbarra-7a4a762ba)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:mohammedbarra2005@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedbarra2005-arch&show_icons=true&hide_border=true)
